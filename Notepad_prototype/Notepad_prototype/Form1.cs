@@ -65,10 +65,6 @@ namespace Notepad_prototype
             }
         }
 
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
 
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {

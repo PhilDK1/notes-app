@@ -28,3 +28,13 @@ c:/users/conrad/source/repos/Notepad_prototype/Notepad_prototype/obj/Debug/Notep
 /home/cian/Desktop/Up-to-date Version/notes-app-master/Notepad_prototype/Notepad_prototype/obj/Debug/Notepad_prototype.csproj.CoreCompileInputs.cache
 /home/cian/Desktop/Up-to-date Version/notes-app-master/Notepad_prototype/Notepad_prototype/obj/Debug/Notepad_prototype.exe
 /home/cian/Desktop/Up-to-date Version/notes-app-master/Notepad_prototype/Notepad_prototype/obj/Debug/Notepad_prototype.pdb
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\bin\Debug\Notepad_prototype.exe.config
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\bin\Debug\Notepad_prototype.exe
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\bin\Debug\Notepad_prototype.pdb
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.csprojAssemblyReference.cache
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.NoteApp.resources
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.Properties.Resources.resources
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.csproj.GenerateResource.cache
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.exe
+C:\Users\Maxim\note_repo\notes-app\Notepad_prototype\Notepad_prototype\obj\Debug\Notepad_prototype.pdb
